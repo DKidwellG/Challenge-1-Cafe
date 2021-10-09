@@ -10,6 +10,11 @@ namespace Challenge_1_Cafe
     {
         static void Main(string[] args)
         {
+            UI program = new UI();
+            program.Run();
+
         }
+
     }
+    
 }
